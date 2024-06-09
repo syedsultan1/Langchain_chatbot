@@ -22,3 +22,6 @@ langchainhub
 sentence_transformers
 PyPDF2
 langchain-objectbox
+boto3
+awscli
+huggingface_hub
